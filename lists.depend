@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1743601024 source:c:\users\kozhm\onedrive\Документы\projects\strings\lists\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+	"menu.h"
+
+1743605883 c:\users\kozhm\onedrive\Документы\projects\strings\lists\structs.h
+
+1743601008 c:\users\kozhm\onedrive\Документы\projects\strings\lists\menu.h
+
+1743610056 source:c:\users\kozhm\onedrive\Документы\projects\strings\lists\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodes.h"
+	"structs.h"
+
+1743609865 source:c:\users\kozhm\onedrive\Документы\projects\strings\lists\nodes.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"nodes.h"
+	"structs.h"
+
+1743610056 c:\users\kozhm\onedrive\Документы\projects\strings\lists\nodes.h
+
+1743858628 source:c:\users\kozhm\onedrive\Документы\projects\strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodes.h"
+	"structs.h"
+
+1743601008 c:\users\kozhm\onedrive\Документы\projects\strings\menu.h
+
+1743779969 c:\users\kozhm\onedrive\Документы\projects\strings\nodes.h
+
+1743605883 c:\users\kozhm\onedrive\Документы\projects\strings\structs.h
+
+1743798830 source:c:\users\kozhm\onedrive\Документы\projects\strings\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+	"menu.h"
+
+1743781207 source:c:\users\kozhm\onedrive\Документы\projects\strings\nodes.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"helptofunc.h"
+	"nodes.h"
+	"structs.h"
+
+1743781294 source:c:\users\kozhm\onedrive\Документы\projects\strings\helptofunc.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"helptofunc.h"
+	"structs.h"
+
+1743617971 c:\users\kozhm\onedrive\Документы\projects\strings\helptofunc.h
+
+1743617801 source:c:\users\kozhm\onedrive\Документы\projects\strings\shakersort.c
+
+1744490438 source:c:\users\bublx\projects\lists\helptofunc.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"helptofunc.h"
+	"structs.h"
+	"DoubleLinkedList.h"
+
+1744488081 c:\users\bublx\projects\lists\helptofunc.h
+
+1744237674 c:\users\bublx\projects\lists\structs.h
+
+1743858628 source:c:\users\bublx\projects\lists\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodes.h"
+	"structs.h"
+
+1744236518 c:\users\bublx\projects\lists\menu.h
+
+1744240510 c:\users\bublx\projects\lists\nodes.h
+	"structs.h"
+
+1744490044 source:c:\users\bublx\projects\lists\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+	"menu.h"
+	"nodes.h"
+	"helptofunc.h"
+	"DoubleLinkedList.h"
+
+1744490521 source:c:\users\bublx\projects\lists\nodes.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"helptofunc.h"
+	"nodes.h"
+	"structs.h"
+
+1743617801 source:c:\users\bublx\projects\lists\shakersort.c
+
+1744490360 source:c:\users\bublx\projects\lists\doublelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DoubleLinkedList.h"
+	"structs.h"
+
+1744489227 c:\users\bublx\projects\lists\doublelinkedlist.h
+	"structs.h"
+

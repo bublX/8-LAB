@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.cbp
+*.layout
+bin/
+obj/
+Debug/
+Release/
