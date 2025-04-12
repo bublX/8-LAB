@@ -1,4 +1,4 @@
-In this project i have done two different exersizes.
+In this project i have done two different exercizes.
 
 
 First one is dedicated to SingleLinked lists.
