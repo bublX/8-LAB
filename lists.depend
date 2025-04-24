@@ -111,7 +111,7 @@
 
 1743617801 source:c:\users\bublx\projects\lists\shakersort.c
 
-1744490360 source:c:\users\bublx\projects\lists\doublelinkedlist.c
+1744490641 source:c:\users\bublx\projects\lists\doublelinkedlist.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -120,4 +120,62 @@
 
 1744489227 c:\users\bublx\projects\lists\doublelinkedlist.h
 	"structs.h"
+
+1744490641 source:c:\users\bublx\projects\lab lists (8)\doublelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DoubleLinkedList.h"
+	"structs.h"
+
+1744489227 c:\users\bublx\projects\lab lists (8)\doublelinkedlist.h
+	"structs.h"
+
+1744237674 c:\users\bublx\projects\lab lists (8)\structs.h
+
+1745527547 source:c:\users\bublx\projects\lab lists (8)\helptofunc.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"helptofunc.h"
+	"structs.h"
+	"DoubleLinkedList.h"
+
+1744488081 c:\users\bublx\projects\lab lists (8)\helptofunc.h
+
+1743858628 source:c:\users\bublx\projects\lab lists (8)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodes.h"
+	"structs.h"
+
+1744236518 c:\users\bublx\projects\lab lists (8)\menu.h
+
+1745526169 c:\users\bublx\projects\lab lists (8)\nodes.h
+	"structs.h"
+
+1745526135 source:c:\users\bublx\projects\lab lists (8)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structs.h"
+	"menu.h"
+	"nodes.h"
+	"helptofunc.h"
+	"DoubleLinkedList.h"
+
+1744490521 source:c:\users\bublx\projects\lab lists (8)\nodes.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"helptofunc.h"
+	"nodes.h"
+	"structs.h"
+
+1745527423 source:c:\users\bublx\projects\lab lists (8)\sortings.c
+	<stdlib.h>
+	"structs.h"
+	"nodes.h"
 

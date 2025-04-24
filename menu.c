@@ -56,9 +56,11 @@ void menu() //меню выбора программы
             system("cls");
             printf("Enter list one:\n");
         InitializePolinoms(ListOne, degrees1, degcounter1);
+        BubbleSort(ListOne);
             system("cls");
             printf("Enter list two:\n");
         InitializePolinoms(ListTwo, degrees2, degcounter2);
+        BubbleSort(ListTwo);
             system("cls");
             printf("First polynomial is: ");
         PrintList(*ListOne);
@@ -94,9 +96,9 @@ void menu() //меню выбора программы
         PrintListDouble(*List);
         DeleteDoubleList(&List);
         printf("Press E to get back to menu");
-        /*do
+        do
             button = getch();
-        while (button != 'e');*/
+        while (button != 'e');
         scanf("%d", &ret);
         menu();
     }

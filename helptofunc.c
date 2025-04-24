@@ -165,12 +165,16 @@ void PrintValue(value * val, int * p)
         printf(" ");
         *p = 1;
     }
+    else if (*p == 1 && val -> sign == ' ')
+    {
+        printf("%c", '+');
+        *p = 1;
+    }
     else if (val -> sign != '\0')
     {
         printf("%c", val -> sign);
         *p = 1;
     }
-
     if (abs(val -> coefficient) != 1 || val -> degree == 0)
     {
         printf("%d", abs(val -> coefficient));
